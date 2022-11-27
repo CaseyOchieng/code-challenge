@@ -1,0 +1,3 @@
+1. Create a repository on your GitHub account.
+2. Use Javascript to wire down the solution.
+3. Push the solution to the above repository once done.
