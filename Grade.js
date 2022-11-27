@@ -1,4 +1,4 @@
-let score = 100;
+let score = 85;
 let Grade;
 
 if(score >= 90){
@@ -10,6 +10,10 @@ else if(score >= 80){
 else if(score => 70){
     Grade = 'C'
 }
-else{
-    
+else if(score >= 60){
+    Grade ='D'
 }
+else{
+    Grade ='F'
+}
+
