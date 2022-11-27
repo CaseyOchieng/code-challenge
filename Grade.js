@@ -1,3 +1,4 @@
+Grade
 let score = 85;
 let Grade;
 
