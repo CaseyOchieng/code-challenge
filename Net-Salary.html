@@ -4,15 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="">
     <title>Net Salary</title>
 </head>
-<body>
+<body style="background-image: url(./images/6370b85e2f870a0a4959de83.jpeg);">
     <script>
         var basic_salary=prompt("Enter your basic salary");
         var house_rent=prompt("Enter rent amount")
         var medical_allowance=prompt("Enter your Medical allowance");
         var GrossSalary =parseInt(basic_salary) + parseInt(house_rent) + parseInt(medical_allowance);
-        var tax =GrossSalary*0.2
+        var tax =(GrossSalary*0.2)
         var net_income = GrossSalary-tax;
         document.write("Your Net income \t "+net_income );
         document.write("Tax Deductions \t "+tax)

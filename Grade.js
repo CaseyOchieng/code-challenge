@@ -1,5 +1,5 @@
 Grade
-let score = 85;
+let score = 100;
 let Grade;
 
 if(score >= 90){
