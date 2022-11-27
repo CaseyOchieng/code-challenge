@@ -15,6 +15,7 @@ else if(score >= 60){
     Grade ='D'
 }
 else{
-    Grade ='F'
+    Grade ='E'
 }
-
+score(67)
+print('Grade:'&{Grade} ,&{score});
