@@ -11,7 +11,7 @@ const speedDifference =speed-speedLimit
 let demeritPoints = 0
 for(let i = 0; i < speedDifference; i+=speedRate){
     demeritPoints += 1
-    // demeritPoints = demeritPoints+speedRate
+    
     if(demeritPoints > 12){
         return 'License suspended'
     }
