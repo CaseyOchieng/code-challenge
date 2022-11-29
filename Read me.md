@@ -1,15 +1,12 @@
-# CODE CHALLENGE
+# WEEK ONE CODE CHALLENGE
 
 # Description
 This is a session for code challenge manipulation
-
-
 # Getting Started
 In order for you to use the content on this repo ensure you have the following:
 
-- A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
+- A computer that runs on either of the following; (Windows 7, Linux, Ubuntu)
 - nodejs 9.0+
-- Some bit of patience for your own sanity.
 
 ## Installation
 
