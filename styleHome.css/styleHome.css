@@ -3,8 +3,10 @@ text-align: center;
 background-color: antiquewhite;
 }
 
-body{
-    background-color: rgba(227, 215, 250, 0.288);
-    background-size: cover;
+a{
+    text-decoration: none;
+    padding: 4px;
+    background-color: rgba(137, 43, 226, 0.479);
+    border-radius: 10px;
     
 }
