@@ -1,3 +1,4 @@
+const speed =prompt("input speed")
 function speedDetector(speed){
 const speedLimit= 70
 const speedRate = 5
@@ -21,4 +22,4 @@ return `Points: ${demeritPoints}`
 
 } 
 
-console.log(speedDetector(100));
+console.log(speedDetector(speed));
