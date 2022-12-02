@@ -1,7 +1,17 @@
 # WEEK ONE CODE CHALLENGE
 
 # Description
-This is a session for code challenge manipulation
+This is a session for code challenge manipulation,
+it contains programs which can be accessed using the homepage(Homepage.html)
+
+The programs are:
+
+1.Net salary calculator.
+
+2.Speed detention.
+
+3.Student grading system.
+
 # Getting Started
 In order for you to use the content on this repo ensure you have the following:
 
