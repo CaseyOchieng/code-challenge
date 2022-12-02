@@ -61,9 +61,10 @@ Running the application is very straight forward. You can use the following step
 
 - Run the application
       
-      use Live server to run html programs
+      To run the program please open the Homepage using the live server or Go Live to navigate through the programs by pressing the buttons.
+
      
-      node <file name>.<file extension> eg.node index.js
+      
 
 # Authors
 This project was contributed to by:
