@@ -55,10 +55,6 @@ To use this repo on your machine requires some simple steps
 
 Running the application is very straight forward. You can use the following steps to run the app.
 
-- Install required dependencies from npm
-      
-      npm install
-
 - Run the application
       
       To run the program please open the Homepage using the live server or Go Live to navigate through the programs by pressing the buttons.
